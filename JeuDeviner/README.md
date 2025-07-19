@@ -1,4 +1,4 @@
-# 🎲 Jeu de Devinette
+# Jeu de Devinette
 
 ## Description
 Un jeu de devinettes de nombres aléatoires. L'application :
