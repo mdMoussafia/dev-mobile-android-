@@ -11,11 +11,5 @@ Maigreur
 Poids normal
 Surpoids
 
-## Demo
-
-![IMC Result](images/app3_1.png)
-
-![IMC Result](images/app3_2.png)
-
 
 
