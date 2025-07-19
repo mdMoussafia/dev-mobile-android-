@@ -1,4 +1,4 @@
-# ⚖️ Calcul IMC
+# Calcul IMC
 
 ## Description
 Cette application calcule l'Indice de Masse Corporelle (IMC). Elle permet aux utilisateurs de :
