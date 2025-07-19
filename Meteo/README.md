@@ -1,15 +1,15 @@
-# ☀️ Meteo App – Android Weather Forecast
+# Meteo App – Android Weather Forecast
 
 Meteo est une application Android affichant les prévisions météo par intervalles de 3 heures via l'API OpenWeatherMap. Développée avec Jetpack Compose pour smartphones et montres Wear OS.
 
-## 🌍 Features
+## Features
 
-- 🔎 Recherche de Ville : Saisissez une ville pour les prévisions en temps réel
-- 🌡️ Détails Météo : Date/heure, températures min/max, pression, humidité, icônes dynamiques
-- 🎨 Interface Material 3 : Thèmes sombres et clairs personnalisés
-- ⌚ Support Wear OS : Version optimisée pour écrans circulaires
+-  Recherche de Ville : Saisissez une ville pour les prévisions en temps réel
+-  Détails Météo : Date/heure, températures min/max, pression, humidité, icônes dynamiques
+-  Interface Material 3 : Thèmes sombres et clairs personnalisés
+-  Support Wear OS : Version optimisée pour écrans circulaires
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Kotlin – Langage principal
 - Jetpack Compose – Interface déclarative
@@ -19,7 +19,7 @@ Meteo est une application Android affichant les prévisions météo par interval
 
 ---
 
-## 📦 API Key
+## API Key
 
 Insérez votre clé API dans WeatherViewModel.kt :
 ```kotlin
